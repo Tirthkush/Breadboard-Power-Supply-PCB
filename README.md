@@ -57,26 +57,6 @@ The project includes the KiCad design files:
 - Bill of Materials (BOM)
 - Gerber files for future fabrication
 
-## Repository Structure
-
-    Breadboard-Power-Supply-PCB/
-    │
-    ├── README.md
-    │
-    ├── Schematic/
-    │   └── Breadboard_Power_Supply.kicad_sch
-    │
-    ├── PCB/
-    │   └── Breadboard_Power_Supply.kicad_pcb
-    │
-    ├── Gerber/
-    │
-    ├── BOM/
-    │   └── BOM.csv
-    │
-    └── 3D/
-        └── PCB_3D_Render.png
-
 ## Applications
 
 The intended use of this PCB is to provide convenient power rails for:
